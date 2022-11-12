@@ -1,0 +1,18 @@
+.slider {
+    width: 256px;
+    height: 300x;
+    border: 2px solid black;
+    margin: 30px auto;
+    overflow: hidden;
+}
+
+.slider-line {
+    height: 300px;
+    width: 1024px;
+    background: rgb(163, 157, 157);
+    display: flex;
+    position: relative;
+    left: 0;
+    transition: all ease 1s;
+    
+}
